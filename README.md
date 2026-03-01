@@ -2,7 +2,7 @@
 
 A simple QR code card component based on the [Frontend Mentor](https://www.frontendmentor.io) design. Centered white card with a QR code image and text.
 
-**Live demo:** [https://frht-frontend-mentor-qr-code-component.netlify.app](https://frht-frontend-mentor-qr-code-component.netlify.app)
+**Live demo:** [https://frht-frontend-mentor-qr-code-component.netlify.app](https://frht-frontend-mentor-qrcode-component.netlify.app)
 
 ## Preview
 
